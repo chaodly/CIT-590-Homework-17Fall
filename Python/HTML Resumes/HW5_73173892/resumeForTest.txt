@@ -1,0 +1,27 @@
+Zhengchao ni
+
+University of Pennsylvania, Philadelphia, PA, USA  -  Master of Science in ESE
+
+Beijing Institute of Technology, Beijing, China  -  Bachelor of Science 
+
+
+nizc0616@.edu
+NIZC0616@SEAS.UPENN.EDU
+nizc0616@seas.upenn.edu
+nizhengchao@hotmail.com
+
+
+Courses - : ESE500, ESE-504,Digtial Signal Processing
+
+Projects
+Investigated a number of journal (IJCV, T-PAMI) or conference papers (CVPR, ICCV, ECCV, NIPS, ICIP) about the state-of-the-art face recognition and face detection schemes based on Deep Neural Networks.
+Collected over 5000 binary face images to create a face dataset.
+Used Convolutional Neural Networks (CNN), and Deep Neural Networks (DNN) to complete Face Recognition/ Classification task, and used R-CNN and its derivative models to complete Face/Object Detection task (operated on Caffe, Linux Ubuntu 14.04, achieved over 99% accuracy).
+
+
+------------------------------
+
+
+
+
+

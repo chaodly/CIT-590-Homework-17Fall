@@ -1,0 +1,5 @@
+Cristiano,Ronaldo,forward,Real Madrid
+Lionel,Messi,forward,Barcelona
+David,Villa,forward,New York City FC
+Manuel,Neyer,goalkeeper,Bayern Munich
+Giorgio,Chiellini,defender,Juventus
